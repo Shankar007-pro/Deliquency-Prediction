@@ -38,19 +38,18 @@ To enhance the dataset for future modeling, I created the following features:
 2.  **`High_Utilization`**: A binary flag (0/1) identifying customers using >80% of their credit limit.
 
 ## 📂 Project Structure
+## 📂 Project Structure
+
+```text
 Task-1-Data-Wrangling/
-│
-├── data/
-│   └── Delinquency_prediction_dataset.csv       # The raw file you downloaded
-│
-├── scripts/
-│   └── data_wrangling_task1.ipynb               # Your Jupyter Notebook with the code
-│
-├── output/
-│   └── cleaned_delinquency_dataset.csv          # The file your code generates
-│
-├── Data_Dictionary.md                           # The table describing the columns
-└── README.md                                    # The documentation file
+├── 📂 data/
+│   └── 📄 Delinquency_prediction_dataset.csv    # Raw, messy financial data
+├── 📂 scripts/
+│   └── 🐍 data_wrangling_task1.ipynb            # Python code for cleaning & profiling
+├── 📂 output/
+│   └── 📊 cleaned_delinquency_dataset.csv       # Final analysis-ready dataset
+├── 📝 Data_Dictionary.md                        # Column definitions & business relevance
+└── 📄 README.md                                 # Project overview & documentation
 
 ## 💻 How to Run This Project
 1.  Clone this repository.
