@@ -64,5 +64,5 @@ To enhance the dataset for future modeling, I created the following features:
 * Self-employed individuals had a higher variance in income reporting compared to employed individuals.
 
 ---
-**Author:** [Shankar Reddy](https://github.com/Shankar007-pro)
+**Author:** [Shankar Reddy Mopur](https://github.com/Shankar007-pro)
 **Date:** [01-01-2026]
